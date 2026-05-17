@@ -4,7 +4,7 @@ from typing import List, Optional
 from enum import Enum
 import uuid
 
-# Constants
+# Constants for recipe constraints
 MAX_TITLE_LENGTH = 200
 MAX_INGREDIENTS = 50
 
